@@ -1,17 +1,29 @@
 {
   "version": 1,
-  "generated_utc": "2025-08-09T10:19:05.705756+00:00",
+  "generated_utc": "2025-08-09T10:22:34.031906+00:00",
   "github": {
     "user": "sepiol2023",
     "repo": "x9a-mem-2025-xpto",
     "branch": "main"
   },
   "base_raw": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/",
-  "count": 8,
+  "count": 11,
   "files": [
     {
       "path": ".gitignore",
       "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/.gitignore"
+    },
+    {
+      "path": "code",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/code"
+    },
+    {
+      "path": "gen_index.py",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/gen_index.py"
+    },
+    {
+      "path": "memorias/gera_index.py",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/gera_index.py"
     },
     {
       "path": "memorias/index.html",
