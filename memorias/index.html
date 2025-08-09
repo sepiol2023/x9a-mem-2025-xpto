@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex,nofollow" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>memorias — índice</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing: border-box; }
+    body { font: 15px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial; margin: 32px; max-width: 900px; }
+    h1 { margin: 0 0 24px; font-size: 24px; }
+    h2 { margin: 28px 0 12px; font-size: 18px; opacity: .85; }
+    .hint { opacity: .7; margin-bottom: 20px; }
+    .card { border: 1px solid rgba(127,127,127,.25); border-radius: 14px; padding: 16px; margin: 14px 0; }
+    ul { list-style: none; padding: 0; margin: 8px 0 0; }
+    li { margin: 8px 0; }
+    a { text-decoration: none; border-bottom: 1px solid currentColor; }
+    a:hover { opacity: .85; }
+    .row { display: grid; grid-template-columns: minmax(240px,1fr) minmax(240px,1fr); gap: 16px; }
+    @media (max-width: 720px){ .row { grid-template-columns: 1fr; } }
+    #q { width: 100%; padding: 10px 12px; border-radius: 12px; border: 1px solid rgba(127,127,127,.3); }
+    .hidden { display: none; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .95em; }
+  </style>
+</head>
+<body>
+  <h1>📁 memorias</h1>
+  <div class="hint">Índice estático dos seus JSONs e pacotes. (Este site está com <code>noindex</code>.)</div>
+
+  <input id="q" placeholder="filtrar por nome…" oninput="filter()" />
+
+  <div class="row">
+    <div class="card">
+      <h2>👤 Pessoas</h2>
+      <ul id="pessoas">
+        <li><a href="./Pessoas/people_index.json">people_index.json</a></li>
+        <li><a href="./Pessoas/pessoa_plinio.json">pessoa_plinio.json</a></li>
+        <li><a href="./Pessoas/pessoa_allan.json">pessoa_allan.json</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>⚖️ Processos Judiciais</h2>
+      <ul id="proc">
+        <li><a href="./Processos%20Judiciais/Processo%20de%20Arbitramento/case_bundle.zip">Processo de Arbitramento — case_bundle.zip</a></li>
+        <li><a href="./Processos%20Judiciais/Processo%20de%20Anulação%20e%20Danos/case_bundle_noqio.zip">Processo de Anulação e Danos — case_bundle_noqio.zip</a></li>
+      </ul>
+      <div class="hint" style="margin-top:8px">Obs.: espaços nas URLs foram codificados como <code>%20</code>.</div>
+    </div>
+  </div>
+
+  <script>
+    function filter() {
+      const q = document.getElementById('q').value.toLowerCase();
+      for (const li of document.querySelectorAll('ul li')) {
+        const t = li.textContent.toLowerCase();
+        li.classList.toggle('hidden', !t.includes(q));
+      }
+    }
+  </script>
+</body>
+</html>

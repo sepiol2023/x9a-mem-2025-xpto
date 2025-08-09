@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "pessoas": [
+    {
+      "id": "P1",
+      "nome": "Sérgio Pioli",
+      "role": "Cliente/Inventariante",
+      "json": "(a criar: pessoa_sergio.json)"
+    },
+    {
+      "id": "P2",
+      "nome": "Plínio de Almeida Tecchio",
+      "role": "Advogado/Contraparte",
+      "json": "pessoa_plinio.json",
+      "arquivo": "pessoa_plinio.json"
+    },
+    {
+      "id": "P3",
+      "nome": "Allan de Lima Lopes",
+      "role": "Comprador/Cedente",
+      "json": "(a criar: pessoa_allan.json)",
+      "arquivo": "pessoa_allan.json"
+    },
+    {
+      "id": "PZ",
+      "nome": "Antônio C. Zimmermann",
+      "role": "Coautor no arbitramento",
+      "json": "(a criar: pessoa_zimmermann_antonio.json)"
+    },
+    {
+      "id": "AZ",
+      "nome": "Alfredo H. Zimmermann",
+      "role": "Coautor no arbitramento",
+      "json": "(a criar: pessoa_zimmermann_alfredo.json)"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "v": 1,
+  "pessoa": {
+    "id": "P2",
+    "nome": "Plínio de Almeida Tecchio",
+    "apelidos": [
+      "Nóquio",
+      "Plinóquio"
+    ],
+    "registro": {
+      "oab": {
+        "uf": "SC",
+        "num": "24.656"
+      }
+    },
+    "contato": {
+      "email": [
+        "plinioat7@yahoo.bom.br",
+        "plinioa7@yahoo.com.br"
+      ],
+      "endereco_decl": "Rua 951, 259, apto 01, Balneário Camboriú/SC",
+      "doc_mask": {
+        "cpf": "810.***.***-**"
+      }
+    },
+    "perfil": {
+      "profissao": [
+        "Advogado"
+      ],
+      "outras_atividades": [
+        "Corretor de imóveis (menção em áudio)"
+      ],
+      "relacao_com_P1": "Advogado de confiança por ~10 anos; depois tornou-se contraparte em negócios/conflito"
+    },
+    "relacoes": [
+      {
+        "com": "P1 (Sérgio Pioli)",
+        "tipo": [
+          "cliente->advogado (anterior)",
+          "adverso (atual)"
+        ]
+      },
+      {
+        "com": "P3 (Allan de Lima Lopes)",
+        "tipo": [
+          "cessionário de direitos",
+          "representado na remição"
+        ]
+      },
+      {
+        "com": "PZ/AZ (Zimmermanns)",
+        "tipo": [
+          "ex-sócios/coligados contratuais até 2019 (segundo alegações)"
+        ]
+      }
+    ]
+  },
+  "envolvimentos": {
+    "contratos_chave": [
+      {
+        "id": "K1",
+        "tipo": "Compra de 64,55% do imóvel do P1",
+        "condicoes": "R$ 450.000 à vista + R$ 100.000 parcelado; desconto atrelado ao 'espaço aéreo'",
+        "observacoes": [
+          "minuta inicial sem garantias/correção; adendo manuscrito em cartório inserindo condição essencial"
+        ]
+      },
+      {
+        "id": "K2",
+        "tipo": "Cessão/garantia com Allan",
+        "data": "2023-10-31",
+        "pontos_sensiveis": [
+          "cláusula de ciência/anuência atribuída ao P1 contestada como falsa"
+        ]
+      }
+    ],
+    "processos_relacionados": [
+      {
+        "id": "C_arbit",
+        "n": "5033694-35.2024.8.24.0018",
+        "ass": "Arbitramento de honorários contra o Espólio/P1",
+        "papel": "Autor"
+      },
+      {
+        "id": "C_anu",
+        "n": "(a definir)",
+        "ass": "Anulatória/Indenização movida por P1",
+        "papel": "Réu"
+      },
+      {
+        "id": "TJSP_cumpr",
+        "n": "0003136-27.2018.8.26.0405",
+        "ass": "Cumprimento de sentença contra Allan",
+        "papel": "Advogado de P1 (antes) / depois atua por Allan (remição)"
+      },
+      {
+        "id": "Rescisao_Allan",
+        "n": "5008911-18.2024.8.24.0005",
+        "ass": "Rescisão c/c perdas e danos entre P1 e Allan",
+        "papel": "Terceiro interessado em razão da cessão"
+      }
+    ],
+    "enderecos_bens": [
+      {
+        "imovel": "Rua 951, 259 – Centro – Balneário Camboriú/SC",
+        "fracoes": [
+          "64,55% (adquirida)",
+          "posse/uso contestados"
+        ]
+      }
+    ]
+  },
+  "linha_do_tempo": [
+    [
+      "2014-12-18",
+      "Contrato P1–Allan (R$ 1,4M) — P2 ainda apenas advogado de P1 em outros temas"
+    ],
+    [
+      "2016-01-01",
+      "Aditivos P1–Allan: +prazo; redução do objeto (~35% ao térreo)"
+    ],
+    [
+      "2018-02-27",
+      "Trânsito em julgado contra Allan (dano moral/indenização – TJSP)"
+    ],
+    [
+      "2020-08-01",
+      "P2 assume P1 como terceiro interessado no TJSP (penhora no imóvel)"
+    ],
+    [
+      "2020-10-01",
+      "P2 manifesta interesse e negocia compra dos 64,55% do P1 (desconto via espaço aéreo)"
+    ],
+    [
+      "2023-03-01",
+      "Arrematação do imóvel (R$ 1.576.442,97)"
+    ],
+    [
+      "2023-10-31",
+      "P2 efetiva remição em nome de Allan; firma cessão; cláusula de ciência atribuída ao P1 (disputada)"
+    ],
+    [
+      "2023-11-10",
+      "P2 comunica informalmente que deixará a defesa de P1"
+    ],
+    [
+      "2024-10-10",
+      "BO por falsidade ideológica (art. 299 CP) relativo à cláusula no contrato P2–Allan"
+    ],
+    [
+      "2024-06-07",
+      "Revogação de mandato do P2 no inventário (data nas peças do arbitramento)"
+    ],
+    [
+      "2024-10-01",
+      "Ajuizamento do arbitramento de honorários por P2 (estim.)"
+    ],
+    [
+      "2025-02-01",
+      "Contestação do espólio/P1 no arbitramento"
+    ],
+    [
+      "2025-04-01",
+      "Réplica de P2 no arbitramento"
+    ],
+    [
+      "2025-08-08",
+      "Manifestação sobre Provas do espólio (julgamento antecipado e retificação do VC)"
+    ]
+  ],
+  "declaracoes_relevantes": [
+    {
+      "data": "2023-10-27",
+      "tema": "Valor do espaço aéreo",
+      "conteudo": "10%–20% do valor do imóvel (áudio)"
+    },
+    {
+      "data": "2024-01-17",
+      "tema": "Avaliação do imóvel",
+      "conteudo": "R$ 1,3–1,4 milhão (áudio)"
+    }
+  ],
+  "alegacoes_contra_P2": {
+    "penais": [
+      "falsidade ideológica (art. 299 CP)",
+      "patrocínio infiel (art. 355 CP)",
+      "possível fraude à execução (art. 179 CP?)"
+    ],
+    "civeis": [
+      "vício de consentimento (dolo/lesão)",
+      "conflito de interesses",
+      "enriquecimento sem causa",
+      "inadimplemento de saldo (R$ 100 mil)"
+    ],
+    "etico_disciplinar": [
+      "PAD/representação na OAB/SC (mencionada nas peças)"
+    ]
+  },
+  "defesas_de_P2_nas_pecas": [
+    "Negócio válido/regular; atuação lícita na remição como garantia do empréstimo a Allan",
+    "Legitimidade de coautores no arbitramento (Zimmermanns) e lisura do trabalho no inventário",
+    "Compensação com honorários devidos; inexistência de prejuízo a P1; ‘adimplemento substancial’ do contrato P1–Allan em certo período"
+  ],
+  "provas_atribuidas_ou_relacionadas": [
+    "Contrato P1–P2 (compra 64,55%) com adendo manuscrito em cartório",
+    "Contrato P2–Allan (cessão/remição) com cláusula de ciência impugnada",
+    "Notificações extrajudiciais (2014–2024)",
+    "Áudios de 27/10/2023 e 17/01/2024",
+    "BO (10/10/2024)",
+    "Atos do TJSP no cumprimento (penhora, arrematação, remição)"
+  ],
+  "flags_risco": [
+    "Conflito de interesses (advogado torna-se adquirente/cessionário em bem litigioso do cliente)",
+    "Mudança de tese processual após aquisição de interesse próprio",
+    "Instrumento contratual com cláusula de ciência do P1 contestada como falsa"
+  ],
+  "xref_jsons": {
+    "arbit": "case_master.json (C_arbit)",
+    "anulatoria": "case_master_noqio.json (C_anu)",
+    "glossarios": [
+      "case_gloss.json",
+      "case_gloss_noqio.json"
+    ]
+  }
+}

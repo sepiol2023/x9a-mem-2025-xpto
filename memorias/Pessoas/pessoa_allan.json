@@ -1,0 +1,135 @@
+{
+  "v": 1,
+  "pessoa": {
+    "id": "P3",
+    "nome": "Allan de Lima Lopes",
+    "apelidos": [],
+    "contato": {
+      "endereco_decl": "não informado nas peças",
+      "doc_mask": {
+        "cpf": "não informado"
+      }
+    },
+    "perfil": {
+      "profissao": [
+        "Dentista"
+      ],
+      "relacao_com_P1": "Comprador de 100% do imóvel da Rua 951 em 2014; posteriormente inadimplente e litigante"
+    },
+    "relacoes": [
+      {
+        "com": "P1 (Sérgio Pioli)",
+        "tipo": [
+          "contraparte em contrato de compra e venda",
+          "réu em rescisão contratual"
+        ]
+      },
+      {
+        "com": "P2 (Plínio de Almeida Tecchio)",
+        "tipo": [
+          "cessionário/garantido em operação de remição",
+          "cliente eventual em atos judiciais"
+        ]
+      }
+    ]
+  },
+  "envolvimentos": {
+    "contratos_chave": [
+      {
+        "id": "K_Allan_2014",
+        "tipo": "Compra e venda de imóvel",
+        "data": "2014-12-18",
+        "valor": "R$ 1,4 milhão (aprox.)",
+        "condicoes": "Pagamento parcelado; cláusula resolutiva expressa",
+        "aditivos": [
+          "Aditivo de 2016 — aumento de prazo",
+          "Aditivo de 2016 — redução de objeto (~35% do térreo)"
+        ]
+      },
+      {
+        "id": "K_Allan_Plinio_2023",
+        "tipo": "Cessão de direitos/garantia de remição",
+        "data": "2023-10-31",
+        "pontos_sensiveis": [
+          "Declaração falsa de ciência de P1 (contestada)",
+          "Bem objeto de penhora em processo TJSP"
+        ]
+      }
+    ],
+    "processos_relacionados": [
+      {
+        "id": "Rescisao_Allan",
+        "n": "5008911-18.2024.8.24.0005",
+        "ass": "Rescisão contratual movida por P1",
+        "papel": "Réu"
+      },
+      {
+        "id": "TJSP_cumpr",
+        "n": "0003136-27.2018.8.26.0405",
+        "ass": "Cumprimento de sentença contra Allan",
+        "papel": "Executado"
+      }
+    ],
+    "enderecos_bens": [
+      {
+        "imovel": "Rua 951, 259 – Centro – Balneário Camboriú/SC",
+        "fracoes": [
+          "100% contratado em 2014",
+          "64,55% em disputa após aditivos"
+        ]
+      }
+    ]
+  },
+  "linha_do_tempo": [
+    [
+      "2014-12-18",
+      "Assinatura do contrato de compra e venda com P1"
+    ],
+    [
+      "2016-01-01",
+      "Aditivos ao contrato (prazo e objeto)"
+    ],
+    [
+      "2018-02-27",
+      "Trânsito em julgado contra Allan em ação de indenização (TJSP)"
+    ],
+    [
+      "2020-08-01",
+      "Penhora do imóvel em favor de credor de Allan (TJSP)"
+    ],
+    [
+      "2023-03-01",
+      "Arrematação do imóvel no TJSP (R$ 1.576.442,97)"
+    ],
+    [
+      "2023-10-31",
+      "Remição da dívida via cessão a P2"
+    ],
+    [
+      "2024-04-18",
+      "Ajuizamento da ação de rescisão contratual por P1"
+    ]
+  ],
+  "alegacoes_contra_P3": {
+    "civeis": [
+      "Inadimplemento contratual",
+      "Perda da posse do imóvel",
+      "Ato conluio em remição com P2 (segundo P1)"
+    ]
+  },
+  "defesas_de_P3_nas_pecas": [
+    "Contestação na rescisão: adimplemento substancial; invalidade da cláusula resolutiva por decurso de prazo",
+    "Alegação de que remição sanou qualquer inadimplemento"
+  ],
+  "provas_relacionadas": [
+    "Contrato de compra e venda (2014)",
+    "Aditivos contratuais (2016)",
+    "Notificações de inadimplência",
+    "Contrato de cessão com P2 (2023)",
+    "Atos processuais no TJSP (penhora, arrematação, remição)"
+  ],
+  "flags_risco": [
+    "Participação em cessão de bem litigioso/penhorado",
+    "Cláusula de ciência atribuída a P1 no contrato de cessão"
+  ]
+}
