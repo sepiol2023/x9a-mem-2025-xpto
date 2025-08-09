@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generated_utc": "2025-08-09T10:04:57.302575+00:00",
+  "github": {
+    "user": "sepiol2023",
+    "repo": "x9a-mem-2025-xpto",
+    "branch": "main"
+  },
+  "base_raw": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/",
+  "count": 7,
+  "files": [
+    {
+      "path": "gera_index.py",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/gera_index.py"
+    },
+    {
+      "path": "index.html",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/index.html"
+    },
+    {
+      "path": "Pessoas/people_index.json",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/Pessoas/people_index.json"
+    },
+    {
+      "path": "Pessoas/pessoa_allan.json",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/Pessoas/pessoa_allan.json"
+    },
+    {
+      "path": "Pessoas/pessoa_plinio.json",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/Pessoas/pessoa_plinio.json"
+    },
+    {
+      "path": "Processos Judiciais/Processo de Anulação e Danos/case_bundle_noqio.zip",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/Processos Judiciais/Processo de Anulação e Danos/case_bundle_noqio.zip"
+    },
+    {
+      "path": "Processos Judiciais/Processo de Arbitramento/case_bundle.zip",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/Processos Judiciais/Processo de Arbitramento/case_bundle.zip"
+    }
+  ]
+}
