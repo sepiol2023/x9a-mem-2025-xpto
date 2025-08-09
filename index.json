@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_utc": "2025-08-09T10:22:34.031906+00:00",
+  "generated_utc": "2025-08-09T13:21:04.166843+00:00",
   "github": {
     "user": "sepiol2023",
     "repo": "x9a-mem-2025-xpto",
     "branch": "main"
   },
   "base_raw": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/",
-  "count": 11,
+  "count": 159,
   "files": [
     {
       "path": ".gitignore",
@@ -42,12 +42,604 @@
       "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Pessoas/pessoa_plinio.json"
     },
     {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161722.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161722.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161808.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161808.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161846.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161846.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161919.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/2024-05-15_161919.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/26_AR1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/26_AR1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/28_PROC1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/28_PROC1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/29_CONT1.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/29_CONT1.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/29_CONT1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/29_CONT1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/34_DOCUMENTACAO2.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/34_DOCUMENTACAO2.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/34_DOCUMENTACAO3 (1).pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/34_DOCUMENTACAO3 (1).pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/34_DOCUMENTACAO3.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/34_DOCUMENTACAO3.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/34_REPLICA1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/34_REPLICA1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/34_REPLICA1_a22bb1908a2f470c893af13f76b93534.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/34_REPLICA1_a22bb1908a2f470c893af13f76b93534.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/36_DESPADEC1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/36_DESPADEC1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/41_PET1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/41_PET1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/43_EMBDECL1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/43_EMBDECL1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/48_CALC2.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/48_CALC2.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/48_CALC3.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/48_CALC3.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/48_OUT4.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/48_OUT4.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/48_OUT5.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/48_OUT5.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/48_PET1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/48_PET1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Aditivo allan 2b.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Aditivo allan 2b.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Aditivo Contrato Sergio - Casa.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Aditivo Contrato Sergio - Casa.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Aditivo Contrato Sergio - Plinio - 25.11.2020.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Aditivo Contrato Sergio - Plinio - 25.11.2020.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Allan_1_WhatsApp Audio 2023-05-03 at 15.29.39_6e9bbbe8.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Allan_1_WhatsApp Audio 2023-05-03 at 15.29.39_6e9bbbe8.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Allan_2_WhatsApp Audio 2023-05-03 at 15.31.22_40bc71b6.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Allan_2_WhatsApp Audio 2023-05-03 at 15.31.22_40bc71b6.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Allan_3_WhatsApp Audio 2023-05-03 at 15.36.33_60c52e7b.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Allan_3_WhatsApp Audio 2023-05-03 at 15.36.33_60c52e7b.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Allan_4_WhatsApp Audio 2023-05-03 at 15.47.27_ef1f2d78.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Allan_4_WhatsApp Audio 2023-05-03 at 15.47.27_ef1f2d78.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Allan_5_WhatsApp Audio 2023-05-03 at 15.57.53_9222f0ba.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Allan_5_WhatsApp Audio 2023-05-03 at 15.57.53_9222f0ba.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Anexo 2 - Aditivo Allan 1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Anexo 2 - Aditivo Allan 1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/análise final.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/análise final.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/AO JUÍZO DA 3ª VARA CÍVEL DA COMARCA DE BALNEÁRIO CAMBORIÚ.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/AO JUÍZO DA 3ª VARA CÍVEL DA COMARCA DE BALNEÁRIO CAMBORIÚ.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio 01.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio 01.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio 03.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio 03.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio 04.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio 04.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio_02.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Plinio_02.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Sergio 01.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Sergio 01.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Sergio 02.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 17.01 Sergio 02.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 01.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 01.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 02.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 02.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 03.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 03.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 04.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 04.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 05.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Audio 26.10 Plinio 05.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/audio_allan_03.05.2023.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/audio_allan_03.05.2023.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/CCS-08839710892-202405-13052024-163202747-58484590.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/CCS-08839710892-202405-13052024-163202747-58484590.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/CIE-Middleware_1.4.3.9.exe",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/CIE-Middleware_1.4.3.9.exe"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Cobrança_1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Cobrança_1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/cobrança_2.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/cobrança_2.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/COMPROMISSO DE COMPRA E VENDA1 -SERGIO PLINIO.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/COMPROMISSO DE COMPRA E VENDA1 -SERGIO PLINIO.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162530.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162530.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162605.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162605.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162631.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162631.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162711.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Comprovante_15-05-2024_162711.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Condenação do advogado.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Condenação do advogado.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Contrato Compra e Venda Casa - Sergio Pioli.doc",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Contrato Compra e Venda Casa - Sergio Pioli.doc"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/contrato locacao allan 2.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/contrato locacao allan 2.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/contrato plinio x Allan.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/contrato plinio x Allan.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Contrato_plinioxAllan.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Contrato_plinioxAllan.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/contratoplinioxAllan_b2d92a33ceec4e5a89fdcc2f79ff5920.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/contratoplinioxAllan_b2d92a33ceec4e5a89fdcc2f79ff5920.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/contratoplinioxAllan_b2d92a33ceec4e5a89fdcc2f79ff5920.txt",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/contratoplinioxAllan_b2d92a33ceec4e5a89fdcc2f79ff5920.txt"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/conversa plinio.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/conversa plinio.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/2025-05-03.txt",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/2025-05-03.txt"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0008.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0008.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0011.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0011.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0012.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0012.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0015.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0015.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0018.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0018.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0019.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0019.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0020.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0020.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0021.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0021.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0022.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0022.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0023.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Conversas Whatsapp/2023-05-03/PTT-20230503-WA0023.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/conversas_formatado_juridico.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/conversas_formatado_juridico.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/DEC08839710892 (5).pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/DEC08839710892 (5).pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/decisão_25-04-2025.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/decisão_25-04-2025.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/defesa-planiha.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/defesa-planiha.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/defesa.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/defesa.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Demonstrativo de cálculos.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Demonstrativo de cálculos.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/despacho rescisão.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/despacho rescisão.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Documento 1 - Notificação Extrajudicial.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Documento 1 - Notificação Extrajudicial.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Documento 2 - Contrato Plínio x Allan.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Documento 2 - Contrato Plínio x Allan.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Documento 3 - Boletim de Ocorrência Policial.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Documento 3 - Boletim de Ocorrência Policial.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Documento 4 - Instauração do PAD pela OAB-SC.pdf.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Documento 4 - Instauração do PAD pela OAB-SC.pdf.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Documento 5 - Planilha de Cálculos.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Documento 5 - Planilha de Cálculos.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/extrato-da-sua-conta-01HXYDFC344S978FGAFJT1ZYC7.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/extrato-da-sua-conta-01HXYDFC344S978FGAFJT1ZYC7.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/extrato_de_15-02-2024_ate_15-05-2024.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/extrato_de_15-02-2024_ate_15-05-2024.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Extratos.rar",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Extratos.rar"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/ideias.txt",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/ideias.txt"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Imagem WhatsApp 2025-05-18 às 18.05.34_2d0bde31.jpg",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Imagem WhatsApp 2025-05-18 às 18.05.34_2d0bde31.jpg"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Impugnacao_Embargos_Allan.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Impugnacao_Embargos_Allan.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Impugnacao_Embargos_Allan_FINAL.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Impugnacao_Embargos_Allan_FINAL.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/INICIAL.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/INICIAL.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/inicial_allan.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/inicial_allan.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Manifestação aos embargos.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Manifestação aos embargos.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/mensagem.txt",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/mensagem.txt"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Notificacao 3 enviada pelo plinio.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Notificacao 3 enviada pelo plinio.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/notificacao 4_via_cartorio.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/notificacao 4_via_cartorio.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/notificacao_2.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/notificacao_2.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/NOtificação - Sergio Pioli  - Alan.doc",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/NOtificação - Sergio Pioli  - Alan.doc"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Notificação 1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Notificação 1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/notificação prévia.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/notificação prévia.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Notificação Sergio - Escritura -IPTU - Infiltrações e Reparos - elevador e outros 5.8.24.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Notificação Sergio - Escritura -IPTU - Infiltrações e Reparos - elevador e outros 5.8.24.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/NOTIFICAÇÃO VALOR INADIMPLIDO E OBRIGAÇÕES ACESSÓRIAS DE CONTRATO DE COMPRA E VENDA DE IMÓVEL _1_ _1_.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/NOTIFICAÇÃO VALOR INADIMPLIDO E OBRIGAÇÕES ACESSÓRIAS DE CONTRATO DE COMPRA E VENDA DE IMÓVEL _1_ _1_.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/nova replica chat gpt.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/nova replica chat gpt.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/nova replica.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/nova replica.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01ABR2024_30ABR2024.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01ABR2024_30ABR2024.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01FEV2024_29FEV2024.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01FEV2024_29FEV2024.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01MAI2024_14MAI2024.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01MAI2024_14MAI2024.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01MAR2024_31MAR2024.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/NU_191540774_01MAR2024_31MAR2024.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/passeios.txt",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/passeios.txt"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Pedido Allan para o aditivo 1.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Pedido Allan para o aditivo 1.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/petição pós réplica.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/petição pós réplica.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/petição.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/petição.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_COMPLETA_COM_QUADRO_ANEXOS.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_COMPLETA_COM_QUADRO_ANEXOS.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_CORRIGIDA_FINAL_25-04-2025.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_CORRIGIDA_FINAL_25-04-2025.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_FINAL.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_FINAL.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_FINAL_COM_PEDIDOS_ADICIONAIS.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_FINAL_COM_PEDIDOS_ADICIONAIS.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_FINAL_RESTAURADA_ANEXOS.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_FINAL_RESTAURADA_ANEXOS.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_RETIFICADA_COM_NOTIFICAÇÃO.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_RETIFICADA_COM_NOTIFICAÇÃO.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_VALOR_ATUALIZADO_FINAL.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/PETIÇÃO_VALOR_ATUALIZADO_FINAL.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Planilha pagamentos Allan.xlsx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Planilha pagamentos Allan.xlsx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/planilha.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/planilha.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/planilha_pagamentos.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/planilha_pagamentos.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/planilha_parcelas.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/planilha_parcelas.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Planilha_parcelas_Allan.xlsx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Planilha_parcelas_Allan.xlsx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Plinio x Sergio  Sergio - Acertos pagto apto BC - 25.06.2024.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Plinio x Sergio  Sergio - Acertos pagto apto BC - 25.06.2024.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Plinio.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Plinio.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Posição no Banco XP.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Posição no Banco XP.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Promessa compra e venda Allan 2.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Promessa compra e venda Allan 2.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/reconvenção.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/reconvenção.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/rendimentos.txt",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/rendimentos.txt"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/replica chatgpt.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/replica chatgpt.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/replica.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/replica.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Replica_Detalhada.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Replica_Detalhada.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/resposta.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/resposta.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Rsolução do contrato.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Rsolução do contrato.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Réplica.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Réplica.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/SCR-08839710892-202405-13052024-162840371-58484289.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/SCR-08839710892-202405-13052024-162840371-58484289.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/screencapture-eprocwebcon-tjsc-jus-br-consulta1g-externo-controlador-php-2025-04-30-10_20_34.pdf",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/screencapture-eprocwebcon-tjsc-jus-br-consulta1g-externo-controlador-php-2025-04-30-10_20_34.pdf"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Sergio_1_WhatsApp Audio 2023-05-03 at 15.22.04_b581917e.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Sergio_1_WhatsApp Audio 2023-05-03 at 15.22.04_b581917e.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Sergio_2_WhatsApp Audio 2023-05-03 at 15.39.50_22219e76.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Sergio_2_WhatsApp Audio 2023-05-03 at 15.39.50_22219e76.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Sergio_3_WhatsApp Audio 2023-05-03 at 15.42.44_55fc85ab.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Sergio_3_WhatsApp Audio 2023-05-03 at 15.42.44_55fc85ab.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Sergio_4_WhatsApp Audio 2023-05-03 at 15.48.38_112b81c7.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Sergio_4_WhatsApp Audio 2023-05-03 at 15.48.38_112b81c7.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Sergio_5_WhatsApp Audio 2023-05-03 at 15.56.29_2d7b390e.waptt.opus",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Sergio_5_WhatsApp Audio 2023-05-03 at 15.56.29_2d7b390e.waptt.opus"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Transcricao_Comentada_Allan.docx",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Transcricao_Comentada_Allan.docx"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Whatsapp_Plinio_17.01.2024.jpg",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Whatsapp_Plinio_17.01.2024.jpg"
+    },
+    {
+      "path": "memorias/Processos Judiciais/Processo Allan/docs/Whatsapp_Plinio_26.10.2023.jpg",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo Allan/docs/Whatsapp_Plinio_26.10.2023.jpg"
+    },
+    {
       "path": "memorias/Processos Judiciais/Processo de Anulação e Danos/case_bundle_noqio.zip",
       "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo de Anulação e Danos/case_bundle_noqio.zip"
     },
     {
       "path": "memorias/Processos Judiciais/Processo de Arbitramento/case_bundle.zip",
       "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/memorias/Processos Judiciais/Processo de Arbitramento/case_bundle.zip"
+    },
+    {
+      "path": "push.bat",
+      "url": "https://raw.githubusercontent.com/sepiol2023/x9a-mem-2025-xpto/main/push.bat"
     },
     {
       "path": "scripts/gen_index.py",
